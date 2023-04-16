@@ -6,9 +6,6 @@ Bu el kitabı **J.J. Sutherland**’ in yazarı olduğu **“Scrum: The Art of D
 
 **Çok Önemli Not:** Scrum’ ın amacı sizin iş yapışınızı kolaylaştırmak adına bir şablon sunmaktır. Dolayısıyla okuyacaklarınız için %100 doğrudur ve bunları uygulamak gerekir gibi bir düşünceye kapılmayın.İhtiyaçlarınıza göre şekillendirin veya uyuyorsa direkt olduğu gibi kullanın. Canınız keyfiniz nasıl isterse yani :)
 
----
-
----
 
 ![https://cdn-images-1.medium.com/max/800/0*5HnEHgfHzTTibZII.png](https://cdn-images-1.medium.com/max/800/0*5HnEHgfHzTTibZII.png)
 
