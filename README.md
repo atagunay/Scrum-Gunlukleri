@@ -4,7 +4,7 @@ Ata Günay
 
 ---
 
-Bu el kitabı **J.J. Sutherland**’ in yazarı olduğu **“Scrum: The Art of Doing Twice the Work in Half the Time”** kitabından çıkardığım çıkardığım notlardan oluşmaktadır.
+Bu el kitabı **J.J. Sutherland**’ in yazarı olduğu **“Scrum: The Art of Doing Twice the Work in Half the Time”** kitabından çıkardığım notlardan oluşmaktadır.
 
 ***Çok Önemli Not:** Scrum’ ın amacı sizin iş yapışınızı kolaylaştırmak adına bir şablon sunmaktır. Dolayısıyla okuyacaklarınız için %100 doğrudur ve bunları uygulamak gerekir gibi bir düşünceye kapılmayın. İhtiyaçlarınıza göre şekillendirin veya uyuyorsa direkt olduğu gibi kullanın. Canınız keyfiniz nasıl isterse yani :)*
 
